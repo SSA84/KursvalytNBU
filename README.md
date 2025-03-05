@@ -1,1 +1,1 @@
-KursvalytNBU
+pip install -r requirements.txt
